@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juane\\Documents\\Unity\\Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\unity\\room\\assets\\scripts\\soltarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soltarpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\unity\\room\\assets\\scripts\\soltarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soltarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\animacionespersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animacionespersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\nivelcompletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nivelcompletado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\registroeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\registroeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\nivel2completado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nivel2completado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\temporizadorobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\temporizadorobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\systemchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systemchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\cogerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cogerobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\systemdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systemdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\samples\\google cardboard xr plugin for unity\\1.16.0\\hello cardboard\\scripts\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\google cardboard xr plugin for unity\\1.16.0\\hello cardboard\\scripts\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\samples\\google cardboard xr plugin for unity\\1.16.0\\hello cardboard\\scripts\\camerapointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\google cardboard xr plugin for unity\\1.16.0\\hello cardboard\\scripts\\camerapointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\manualxrcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manualxrcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\cardboardunityadventure\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\cardboardunityadventure\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\uielementxr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uielementxr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\Room\\assets\\scripts\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13895069-5644-BA72-48BD-816C5C55FC7C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoltarPersona.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SoltarPersona.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoltarPersona.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SoltarPersona.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoltarPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:36:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimacionesPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\AnimacionesPersonas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimacionesPersonas.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\AnimacionesPersonas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimacionesPersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:29:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NivelCompletado.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\NivelCompletado.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NivelCompletado.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\NivelCompletado.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NivelCompletado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:57:15.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemporizadorObjetos.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\TemporizadorObjetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TemporizadorObjetos.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\TemporizadorObjetos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TemporizadorObjetos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:55:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nivel2Completado.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\Nivel2Completado.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nivel2Completado.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\Nivel2Completado.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nivel2Completado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:55:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoltarObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SoltarObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoltarObjeto.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SoltarObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoltarObjeto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBJwBsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:25:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemChest.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SystemChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SystemChest.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SystemChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SystemChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:39:55.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroEventos.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\RegistroEventos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RegistroEventos.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\RegistroEventos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RegistroEventos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:17:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CogerObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\CogerObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CogerObjeto.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\CogerObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CogerObjeto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:03:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemDoor.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SystemDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SystemDoor.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\SystemDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SystemDoor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:56:40.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GazeManager.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\CardboardUnityAdventure\\Scripts\\GazeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CardboardUnityAdventure\\Scripts\\GazeManager.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\CardboardUnityAdventure\\Scripts\\GazeManager.cs",
+              "RelativeToolTip": "Assets\\CardboardUnityAdventure\\Scripts\\GazeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:40:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeScene.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\ChangeScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeScene.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:31:10.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraPointerManager.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\CameraPointerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPointerManager.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\CameraPointerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraPointerManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T05:05:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManualXRControl.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\ManualXRControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManualXRControl.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\ManualXRControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManualXRControl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:56:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectController.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\ObjectController.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\ObjectController.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\ObjectController.cs",
+              "RelativeToolTip": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\ObjectController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:03:57.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIElementXR.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\UIElementXR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIElementXR.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\UIElementXR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIElementXR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:16:13.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwv0MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:15:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraPointer.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\CameraPointer.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\CameraPointer.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\Room\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\CameraPointer.cs",
+              "RelativeToolTip": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.16.0\\Hello Cardboard\\Scripts\\CameraPointer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T05:05:02.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
