@@ -59,12 +59,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\VR Beginner\Scripts\System\InteractorEventDispatcher.cs" />
+    <Compile Include="Assets\Scripts\MantenerParado.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Effects\SFXPlayer.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\Radio.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\ObjectLauncher.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\WoodenLogBehaviour.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\Interactables\ButtonInteractable.cs" />
     <Compile Include="Assets\Scripts\CogerObjeto.cs" />
+    <Compile Include="Assets\Scripts\Nivel2Completado.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Effects\SelectionOutline.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Effects\ShakeObject.cs" />
@@ -78,6 +80,7 @@
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\WatchScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\Potion.cs" />
+    <Compile Include="Assets\Scripts\SoltarPersona.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Scripts\ManualXRControl.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
@@ -89,6 +92,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+    <Compile Include="Assets\Scripts\NivelCompletado.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\RespawnableObject.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Effects\FireDestruction.cs" />
@@ -98,6 +102,7 @@
     <Compile Include="Assets\VR Beginner\Scripts\System\Interactables\AxisDragInteractable.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.16.0\Hello Cardboard\Scripts\CardboardStartup.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\MasterController.cs" />
+    <Compile Include="Assets\Scripts\AnimacionesPersonas.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\CardboardUnityAdventure\Scripts\CardboardSimulator.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\DisableInteractable.cs" />
@@ -110,6 +115,7 @@
     <Compile Include="Assets\Scripts\SystemChest.cs" />
     <Compile Include="Assets\Scripts\UIElementXR.cs" />
     <Compile Include="Assets\Scripts\CameraPointerManager.cs" />
+    <Compile Include="Assets\Scripts\AbrirInstrucciones.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\ActivateRotatingInteractor.cs" />
@@ -124,6 +130,7 @@
     <Compile Include="Assets\VR Beginner\Scripts\Effects\FanRotation.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\MagicReceiver.cs" />
+    <Compile Include="Assets\Scripts\TemporizadorObjetos.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\Interactables\DialInteractable.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\WitchHouseUIHook.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Effects\CauldronEffects.cs" />
@@ -143,6 +150,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\CCManager.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\XRReleaseController.cs" />
+    <Compile Include="Assets\Scripts\CerrarInstrucciones.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\ObjectSpawner.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
@@ -165,14 +173,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\System\InteractableLayerChange.cs" />
     <Compile Include="Assets\VR Beginner\Scripts\Gameplay\EndingSequence.cs" />
-    <Compile Include="Assets\Scripts\MantenerParado.cs" />
-    <Compile Include="Assets\Scripts\CerrarInstrucciones.cs" />
-    <Compile Include="Assets\Scripts\AbrirInstrucciones.cs" />
-    <Compile Include="Assets\Scripts\TemporizadorObjetos.cs" />
-    <Compile Include="Assets\Scripts\NivelCompletado.cs" />
-    <Compile Include="Assets\Scripts\Nivel2Completado.cs" />
-    <Compile Include="Assets\Scripts\AnimacionesPersonas.cs" />
-    <Compile Include="Assets\Scripts\SoltarPersona.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
