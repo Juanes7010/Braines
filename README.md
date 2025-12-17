@@ -27,6 +27,16 @@ En el Nivel 1, los estudiantes se encuentran dentro de una casa y deben resolver
 
 Al final de la habitación hay una mesa con unos objetos, debes ubicarlos como lo indica la secuencia, al hacerlo se abrirá el cofre que está aquí a tu derecha, deberás coger la llave, salir de la casa y abrir la puerta de la caseta ubicada a tu izquierda.
 
+
+
+https://github.com/user-attachments/assets/60dba5ed-bcc7-4196-b8db-73e0772edd0d
+
+
+
+https://github.com/user-attachments/assets/95721e29-58b3-4a0d-b812-c93fae573843
+
+
+
 **🕹️ Controles del Nivel**
 
 Coger Objetos: Para coger los objetos solo debes mirarlos y esperar a que se llene la barra de carga.
@@ -61,6 +71,12 @@ El Nivel 2 presenta un desafío de organización y lógica de restricciones, amb
 Estamos en la alborada... Lena y Paul decidieron celebrar con sus amigos, pero, cada uno tiene sus preferencias para sentarse
 
 En este caso, estar "al lado de" significa tanto "directamente al lado" como "solo separado por una esquina".
+
+
+
+https://github.com/user-attachments/assets/31bdeeca-64fd-479b-a384-83731d666254
+
+
 
 **📝 Preferencias (Restricciones)**
 
